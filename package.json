@@ -1,0 +1,17 @@
+{
+  "name": "notion-line-word",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@line/bot-sdk": "^8.2.0",
+    "@notionhq/client": "^2.2.14",
+    "circular-json": "^0.5.9",
+    "express": "^4.18.2"
+  }
+}
